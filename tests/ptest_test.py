@@ -55,7 +55,7 @@ class SumTest(unittest.TestCase):
 class TestMathOperations(unittest.TestCase):
 
     def test_addition(self):
-        self.assertEqual(1 + 1, 2)
+        self.assertEqual(1 + 1, 3)
 
     def test_subtraction(self):
         self.assertEqual(2 - 1, 1)
